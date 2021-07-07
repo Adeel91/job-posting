@@ -1,0 +1,106 @@
+.postings-details-container {
+  margin-top: 5.8rem !important;
+
+  .section {
+    font-size: 1.25rem;
+    color: #fff;
+    background: #0b41af;
+    padding: 10px;
+    margin-top: 10px;
+  }
+
+  .title {
+    color: #04ad40;
+    text-transform: uppercase;
+    line-height: 30px;
+  }
+
+  .description {
+    text-align: justify;
+    font-size: 0.9rem;
+  }
+
+  .apply {
+    width: 30%;
+    margin: 0 auto;
+    line-height: 40px;
+    background: #0841b0;
+  }
+
+  .back {
+    line-height: 50px;
+    font-size: 1rem;
+    margin: 0px;
+    background: #04ad40;
+    width: 100%;
+    color: #fff;
+
+    .back-image {
+      cursor: pointer;
+      width: 3rem;
+    }
+  }
+
+  .banner-image {
+    background: #0b41af0d;
+    height: 300px;
+    object-fit: cover;
+    width: 100%;
+  }
+
+  .logo-row {
+    display: flex;
+    justify-content: center;
+    margin-top: -50px;
+
+    .logo {
+      border-radius: 0.7rem;
+      background: #d3edd6;
+      width: 7rem;
+      object-fit: cover;
+      padding: 20px 30px;
+    }
+  }
+
+  .image {
+    width: 2.5rem;
+    margin-right: 10px;
+    border-radius: 50%;
+    background: #d3edd6;
+    padding: 10px;
+  }
+
+  .labels {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 10px;
+
+    .employment {
+      background: #00ae41;
+      color: #fff;
+      min-width: 120px;
+      font-size: 0.85rem;
+      padding: 10px;
+      border-radius: 5px;
+    }
+
+    .experience {
+      background: #1880c6;
+      color: #fff;
+      min-width: 120px;
+      font-size: 0.85rem;
+      padding: 10px;
+      border-radius: 5px;
+    }
+
+    .remote {
+      background: #5e21b5;
+      color: #fff;
+      min-width: 120px;
+      font-size: 0.85rem;
+      padding: 10px;
+      border-radius: 5px;
+    }
+  }
+}

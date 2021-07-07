@@ -1,0 +1,16 @@
+export default {
+  FETCH_DEPARTMENTS: "Fetch Departments",
+  SET_DEPARTMENTS: "Set Departments",
+  SET_DEPARTMENT_ID: "Set Department Id",
+  FETCH_POSTINGS: "Fetch Postings",
+  FETCH_FAILURE: "Fetch Failure",
+  SET_POSTINGS: "Set Postings",
+  CLEAR_POSTINGS: "Clear Postings",
+  SET_POSTING_ID: "Set Posting Id",
+  FETCH_POSTING_DETAILS: "Fetch Posting Details",
+  SET_POSTING_DETAILS: "Set Posting Details",
+  CLEAR_POSTING_DETAILS: "Clear Posting Details",
+  FETCH_COUNTRIES: "Fetch Countries",
+  SET_COUNTRIES: "Set Countries",
+  SET_COUNTRY_CODE: "Set Country Code",
+};

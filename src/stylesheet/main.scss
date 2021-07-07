@@ -1,0 +1,27 @@
+html,
+body {
+  background-color: #f4f5f9 !important;
+}
+
+.layout-section {
+  background-color: #0841b0;
+  background-image: url("https://www.google.com/images/branding/googleg/1x/googleg_standard_color_128dp.png");
+  background-repeat: repeat-x;
+  background-size: cover;
+}
+
+.filters {
+  border-bottom: 1px solid #00ae41;
+
+  .dropdown {
+    .dropdown-toggle {
+      min-width: 50%;
+      line-height: 40px;
+    }
+
+    .dropdown-menu {
+      max-height: 300px;
+      overflow-y: auto;
+    }
+  }
+}

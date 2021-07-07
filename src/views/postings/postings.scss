@@ -1,0 +1,102 @@
+.postings-container {
+  margin-top: 5.8rem !important;
+
+  .selected {
+    padding: 10px;
+    background: #00ae41;
+    color: #fff;
+    text-align: center;
+  }
+
+  .reset {
+    padding: 10px;
+    color: #fff;
+    text-align: center;
+    background: #0b41af;
+    cursor: pointer;
+  }
+
+  .no-job-found {
+    background: #0b41af;
+    color: #fff;
+    padding: 10px;
+    margin: 10px 0;
+  }
+
+  .posting {
+    border-radius: 0.7rem;
+    background: #ffffff;
+    color: #666;
+    cursor: pointer;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    box-shadow: 2px 5px 8px #ddd;
+    text-decoration: none;
+
+    .row {
+      padding: 0 1rem;
+
+      .column {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        .deck {
+          background: #d3edd6;
+          border-radius: 0.7rem;
+          padding: 10px;
+
+          .image {
+            width: 30px;
+            object-fit: cover;
+          }
+        }
+      }
+
+      .card-body {
+        font-size: 0.85rem;
+
+        .title {
+          font-size: 1rem;
+          font-weight: bold;
+          color: #04ad40;
+        }
+
+        .location,
+        .department {
+          margin-bottom: 0.2rem;
+        }
+      }
+    }
+
+    .info {
+      margin: 0;
+
+      .label {
+        background: #e2e2e2;
+        width: 10%;
+        padding: 0.5rem;
+        font-size: 0.75rem;
+        font-weight: bold;
+        border-radius: 0.3rem;
+        color: #fff;
+      }
+
+      .employment {
+        background: #00ae41;
+      }
+
+      .experience {
+        background: #1880c6;
+      }
+
+      .timestamp {
+        color: #00ae41;
+      }
+    }
+
+    &:hover {
+      background-color: #0b41af0d;
+    }
+  }
+}
