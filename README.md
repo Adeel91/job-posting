@@ -60,16 +60,26 @@ Optionally, as an author you can also:
 <a name="#public-api"></a>
 
 ## Public API
-* Api link
 
-### Get list of postings published by Company
-* Api link
+### Get list of postings published by SmartRecruiters
+
+`GET https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings`
+
+Demo: https://reqbin.com/fjiq2zrg
+Documentation: https://dev.smartrecruiters.com/customer-api/posting-api/endpoints/postings/
 
 ### Get posting details
-* Api link
+
+`GET https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/{postingID}`
+
+Demo: https://reqbin.com/sghcu97n
+Documentation: https://dev.smartrecruiters.com/customer-api/posting-api/endpoints/postingcontent/
 
 ### List of departments
-* Api link
+
+`GET https://api.smartrecruiters.com/v1/companies/smartrecruiters/departments`
+
+Documentation: https://dev.smartrecruiters.com/customer-api/live-docs/posting-api/#/postings/v1.listDepartments
 
 ### List of countries
 
@@ -103,3 +113,21 @@ No, basic routes and serving static assets are enough. Everything else is up to 
 
 - Make sure we understand how to run your program. Add RUN.md file that describes how to start it (if not using standard ways to run a program).
 - We will run a formal code review on your solution. Make sure your code is not only correct but also easy to read and reason about.
+
+## Screenshots
+
+The screenshots of the application are as follows:
+
+### Desktop
+
+| !["Desktop 01.png"](media/screenshots/desktop/Desktop 01.png) | !["Desktop 02.png"](media/screenshots/desktop/Desktop 02.png) |
+| ------------------------------------------------------------- | ------------------------------------------------------------- |
+| !["Desktop 03.png"](media/screenshots/desktop/Desktop 03.png) | !["Desktop 04.png"](media/screenshots/desktop/Desktop 05.png) |
+| !["Desktop 05.png"](media/screenshots/desktop/Desktop 05.png) | !["Desktop 06.png"](media/screenshots/desktop/Desktop 06.png) |
+
+### Mobile
+
+| !["Mobile 01.png"](media/screenshots/mobile/Mobile 01.png) | !["Mobile 02.png"](media/screenshots/mobile/Mobile 02.png) |
+| ---------------------------------------------------------- | ---------------------------------------------------------- |
+| !["Mobile 03.png"](media/screenshots/mobile/Mobile 03.png) | !["Mobile 04.png"](media/screenshots/mobile/Mobile 05.png) |
+| !["Mobile 05.png"](media/screenshots/mobile/Mobile 05.png) | !["Mobile 06.png"](media/screenshots/mobile/Mobile 06.png) |

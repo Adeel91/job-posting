@@ -16,7 +16,7 @@ function DepartmentDropdown({
         --All--
       </Dropdown.Item>
 
-      {Object.keys(departments).length > 0 &&
+      {departments && Object.keys(departments).length > 0 &&
         departments.content.map((item, key) => {
           return (
             <Dropdown.Item

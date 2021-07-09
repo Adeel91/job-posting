@@ -62,7 +62,7 @@ function Postings() {
     dispatch(fetchPostings());
   };
 
-  const totalPostings = postings.totalFound ? postings.totalFound : 0;
+  const totalPostings = postings && postings.totalFound ? postings.totalFound : 0;
 
   return (
     <Container fluid className="postings-container">
@@ -81,9 +81,9 @@ function Postings() {
 
         <Card.Title className="mb-3">{`Job Posting (${totalPostings})`}</Card.Title>
 
-        {Object.keys(postings).length === 0 && renderSkeleton()}
+        {postings && Object.keys(postings).length === 0 && renderSkeleton()}
 
-        {Object.keys(postings).length > 0 && (
+        {postings && Object.keys(postings).length > 0 && (
           <JobPosting postings={postings} setPostingId={onSetPostingClicked} />
         )}
       </Container>

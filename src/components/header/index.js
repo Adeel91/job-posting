@@ -9,7 +9,7 @@ function Index() {
           <a href="/">
             <Col xs={6} md={6}>
               <Image
-                src="https://www.google.com/images/branding/googleg/1x/googleg_standard_color_128dp.png"
+                src="https://www.smartrecruiters.com/wp-content/themes/smartrecruiters/new-template/img/en_us/global/srlogo-2019-white.png"
                 fluid
               />
             </Col>
