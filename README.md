@@ -119,14 +119,34 @@ The screenshots of the application are as follows:
 
 ### Desktop
 
-| !["Desktop01.png"](media/screenshots/desktop/Desktop 01.png) | !["Desktop02.png"](media/screenshots/desktop/Desktop 02.png) |
-| ------------------------------------------------------------ | ----------------------------------------------------------- |
-| !["Desktop03.png"](media/screenshots/desktop/Desktop 03.png) | !["Desktop04.png"](media/screenshots/desktop/Desktop 05.png) |
-| !["Desktop05.png"](media/screenshots/desktop/Desktop 05.png) | !["Desktop06.png"](media/screenshots/desktop/Desktop 06.png) |
+<table>
+  <tr>
+    <td> <img src="media/screenshots/desktop/Desktop 01.png" alt="Desktop01.png" style="width: 250px;"/> </td>
+    <td> <img src="media/screenshots/desktop/Desktop 02.png" alt="Desktop02.png" style="width: 250px;"/> </td>
+  </tr>
+  <tr>
+    <td> <img src="media/screenshots/desktop/Desktop 03.png" alt="Desktop03.png" style="width: 250px;"/> </td>
+    <td> <img src="media/screenshots/desktop/Desktop 04.png" alt="Desktop04.png" style="width: 250px;"/> </td>
+  </tr>
+  <tr>
+    <td> <img src="media/screenshots/desktop/Desktop 05.png" alt="Desktop05.png" style="width: 250px;"/> </td>
+    <td> <img src="media/screenshots/desktop/Desktop 06.png" alt="Desktop06.png" style="width: 250px;"/> </td>
+  </tr>
+</table>
 
 ### Mobile
 
-| !["Mobile01.png"](media/screenshots/mobile/Mobile 01.png) | !["Mobile02.png"](media/screenshots/mobile/Mobile 02.png) |
-| --------------------------------------------------------- | ---------------------------------------------------------- |
-| !["Mobile03.png"](media/screenshots/mobile/Mobile 03.png) | !["Mobile04.png"](media/screenshots/mobile/Mobile 05.png) |
-| !["Mobile05.png"](media/screenshots/mobile/Mobile 05.png) | !["Mobile06.png"](media/screenshots/mobile/Mobile 06.png) |
+<table>
+  <tr>
+    <td> <img src="media/screenshots/mobile/Mobile 01.png" alt="Mobile01.png" style="width: 250px;"/> </td>
+    <td> <img src="media/screenshots/mobile/Mobile 02.png" alt="Mobile02.png" style="width: 250px;"/> </td>
+  </tr>
+  <tr>
+    <td> <img src="media/screenshots/mobile/Mobile 03.png" alt="Mobile03.png" style="width: 250px;"/> </td>
+    <td> <img src="media/screenshots/mobile/Mobile 04.png" alt="Mobile04.png" style="width: 250px;"/> </td>
+  </tr>
+  <tr>
+    <td> <img src="media/screenshots/mobile/Mobile 05.png" alt="Mobile05.png" style="width: 250px;"/> </td>
+    <td> <img src="media/screenshots/mobile/Mobile 06.png" alt="Mobile06.png" style="width: 250px;"/> </td>
+  </tr>
+</table>
