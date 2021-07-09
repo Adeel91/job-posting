@@ -111,8 +111,7 @@ No, basic routes and serving static assets are enough. Everything else is up to 
 
 ### How to submit a great solution
 
-- Make sure we understand how to run your program. Add RUN.md file that describes how to start it (if not using standard ways to run a program).
-- We will run a formal code review on your solution. Make sure your code is not only correct but also easy to read and reason about.
+- Added RUN.md file that describes how to start the project.
 
 ## Screenshots
 
@@ -120,14 +119,14 @@ The screenshots of the application are as follows:
 
 ### Desktop
 
-| !["Desktop 01.png"](media/screenshots/desktop/Desktop 01.png) | !["Desktop 02.png"](media/screenshots/desktop/Desktop 02.png) |
-| ------------------------------------------------------------- | ------------------------------------------------------------- |
-| !["Desktop 03.png"](media/screenshots/desktop/Desktop 03.png) | !["Desktop 04.png"](media/screenshots/desktop/Desktop 05.png) |
-| !["Desktop 05.png"](media/screenshots/desktop/Desktop 05.png) | !["Desktop 06.png"](media/screenshots/desktop/Desktop 06.png) |
+| !["Desktop01.png"](media/screenshots/desktop/Desktop 01.png) | !["Desktop02.png"](media/screenshots/desktop/Desktop 02.png) |
+| ------------------------------------------------------------ | ----------------------------------------------------------- |
+| !["Desktop03.png"](media/screenshots/desktop/Desktop 03.png) | !["Desktop04.png"](media/screenshots/desktop/Desktop 05.png) |
+| !["Desktop05.png"](media/screenshots/desktop/Desktop 05.png) | !["Desktop06.png"](media/screenshots/desktop/Desktop 06.png) |
 
 ### Mobile
 
-| !["Mobile 01.png"](media/screenshots/mobile/Mobile 01.png) | !["Mobile 02.png"](media/screenshots/mobile/Mobile 02.png) |
-| ---------------------------------------------------------- | ---------------------------------------------------------- |
-| !["Mobile 03.png"](media/screenshots/mobile/Mobile 03.png) | !["Mobile 04.png"](media/screenshots/mobile/Mobile 05.png) |
-| !["Mobile 05.png"](media/screenshots/mobile/Mobile 05.png) | !["Mobile 06.png"](media/screenshots/mobile/Mobile 06.png) |
+| !["Mobile01.png"](media/screenshots/mobile/Mobile 01.png) | !["Mobile02.png"](media/screenshots/mobile/Mobile 02.png) |
+| --------------------------------------------------------- | ---------------------------------------------------------- |
+| !["Mobile03.png"](media/screenshots/mobile/Mobile 03.png) | !["Mobile04.png"](media/screenshots/mobile/Mobile 05.png) |
+| !["Mobile05.png"](media/screenshots/mobile/Mobile 05.png) | !["Mobile06.png"](media/screenshots/mobile/Mobile 06.png) |
